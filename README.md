@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahmed Rabea
+- 👀 I’m interested in new tech and learning about programming related fields
+- 🌱 I’m currently learning software testing, wep development & Design, Embedded systems.
+- 💞️ I’m looking to collaborate on any project which could help me develop some new and important skills.
+- 📫 ahmedmrabea93@gmail.com
